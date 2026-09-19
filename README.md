@@ -120,20 +120,5 @@ python app.py
 
 This provides a simple way to enter customer information and get a prediction.
 
-## GitHub
 
-To upload the project to GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Add customer churn prediction project"
-git branch -M main
-git remote add origin https://github.com/hamzadugal21/customer-churn-prediction.git
-git push -u origin main
-```
-
-Replace `hamzadugal21` with your GitHub username.
-
-## Author
 
